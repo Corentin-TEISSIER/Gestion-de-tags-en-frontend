@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cypress": "^9.5.1",
+    "serve": "^13.0.2"
+  }
+}

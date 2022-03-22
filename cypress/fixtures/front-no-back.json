@@ -1,0 +1,29 @@
+{
+  "msg": "Tags found",
+  "data": [
+  {
+    "id": 1,
+    "name": "COMMANDE"
+  },
+  {
+    "id": 2,
+    "name": "GET"
+  },
+  {
+    "id": 3,
+    "name": "VERS"
+  },
+  {
+    "id": 4,
+    "name": "BACKEND"
+  },
+  {
+    "id": 5,
+    "name": "INTERCEPTEE"
+  },
+  {
+    "id": 6,
+    "name": "!!!"
+  }
+]
+}
